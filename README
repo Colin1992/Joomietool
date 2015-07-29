@@ -1,0 +1,19 @@
+
+ _____                                          __     
+/\___ \                              __        /\ \    
+\/__/\ \    ___     ___     ___ ___ /\_\     __\ \ \   
+   _\ \ \  / __ \  / __ \ /   __ __ \/\ \  / __ \ \ \  
+  /\ \_\ \/\ \L\ \/\ \L\ \/\ \/\ \/\ \ \ \/\  __/\ \_\ 
+  \ \____/\ \____/\ \____/\ \_\ \_\ \_\ \_\ \____\\/\_\
+   \/___/  \/___/  \/___/  \/_/\/_/\/_/\/_/\/____/ \/_/
+
+
+Thank you for using the Joomietool!  It is still in its beta stages but we do everything we can to make it safe to use!  We will not make a function usable unless
+we have tested it and found it to be safe to the website.  However, use at your own risk.  We currently have the following functions available:
+
+          juser - changes the username and password used to access the administrator page
+          jcore - updates the core Joomla files. Supports 2.5, 3.2, and 3.3.  It is not recommended to update between versions such as 2.5.x to 3.2.x
+          jdb   - shows the database information for the selected joomla folder
+          jmove - Moves the website from one folder to another.
+
+
